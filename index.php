@@ -93,7 +93,6 @@ if(!$cnt) {
 ?>
 
 <div class="w3-center w3-margin-top">
-	<span style="font-size:12px;color:#A2A2A2">This program is optimized for the Chrome browser.</span><br>
 	<span style="font-size:12px;color:#555555">Copyright &copy 2022 Made by Kim Inho. All right reserved.</span>
 </div>
 
